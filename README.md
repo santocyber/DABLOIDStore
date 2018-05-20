@@ -6,11 +6,13 @@ Desenvolvimento open-source de uma loja conceito de entretenimento e inovacao te
 ### Produtos
 Painel Solar Flexivel CIGS
 <br>
-Patinete Eletrico
+Patinete Eletrico e Acessorios
 <br>
 Skate Eletrico
 <br>
-Vaporizadores Eletronicos<br>Bongs
+Vaporizadores Eletronicos e acessorios
+<br>
+Bongs
 <br>
 Lanterna Tatica
 <br>
