@@ -1,11 +1,10 @@
-# DABLOIDStore
+# DABLOID Store
 ## DABLOIDStore 
 
 Desenvolvimento open-source de uma loja conceito de entretenimento e inovacao tecnologica
 
 ### Produtos
-
-Painel Solar Flexivel
+Painel Solar Flexivel CIGS
 <br>
 Patinete Eletrico
 <br>
