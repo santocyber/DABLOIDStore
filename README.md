@@ -14,10 +14,12 @@ Vaporizadores Eletronicos e acessorios
 <br>
 Bongs
 <br>
-Lanterna Tatica
+Destiladores
 <br>
 PowerBanks
 <br>
-Baterias
+Baterias Samsung, LG e Sony
 <br>
-Lampadas LED<br>Destiladores
+Lampadas LED
+<br>
+Lanterna Tatica LED Powerbank
