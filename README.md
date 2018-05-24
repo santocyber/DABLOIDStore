@@ -24,6 +24,8 @@ Baterias Samsung, LG e Sony
 Lampadas LED
 <br>
 Lanterna Tatica LED Powerbank
+<br>
+VR
 
 ## Conceito
 
