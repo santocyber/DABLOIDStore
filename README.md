@@ -25,7 +25,7 @@ Lampadas LED
 <br>
 Lanterna Tatica LED Powerbank
 <br>
-VR
+VR Realidade Aumentada Virtual 
 
 ## Conceito
 
